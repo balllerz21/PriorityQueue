@@ -6,6 +6,4 @@ inserted from the oldest to the most recent by a linked list.
 
 This priority queue has constructors, destructors, an enqueue, a dequeue, size, and peek functions as well as operator overloads 
 
-This project also comes with tests 
-
-*/
+This project also comes with Google tests that test the funcionality of the priority queue*/
