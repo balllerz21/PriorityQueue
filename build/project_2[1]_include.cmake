@@ -1,0 +1,5 @@
+if(EXISTS "/Users/balllerz21/PriorityQueue/build/project_2[1]_tests.cmake")
+  include("/Users/balllerz21/PriorityQueue/build/project_2[1]_tests.cmake")
+else()
+  add_test(project_2_NOT_BUILT project_2_NOT_BUILT)
+endif()
