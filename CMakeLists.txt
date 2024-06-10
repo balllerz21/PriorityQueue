@@ -1,23 +1,14 @@
-cmake_minimum_required(VERSION 3.20)
-project(project_2)
+cmake_minimum_required(VERSION 3.22)
+project(Project4)
 
-set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD 14)
 
-include_directories(.)
 include(FetchContent)
-FetchContent_Declare(
-        googletest
-        URL https://github.com/google/googletest/archive/609281088cfefc76f9d0ce82e1ff6c30cc3591e5.zip
-)
+FetchContent_Declare(googletest URL https://github.com/google/googletest/archive/5376968f6948923e2411081fd9372e71a59d8e77.zip)
 
-# For Windows: Prevent overriding the parent project's compiler/linker settings
-set(gtest_force_shared_crt ON CACHE BOOL "" FORCE)
 FetchContent_MakeAvailable(googletest)
 
-enable_testing()
-add_executable(project_2 tests.cpp priorityqueue.h)
-target_link_libraries(project_2 gtest_main)
-include(GoogleTest)
-gtest_discover_tests(project_2)
+add_executable(Project4 tests.cpp priorityqueue.h)
+target_link_libraries(Project4 gtest_main)
 
 
