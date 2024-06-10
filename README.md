@@ -12,4 +12,4 @@ Changes Done in 2024:
 Originally, this program was made in Clion. 
 In order to make this code work in VSCode, I had to make a json pre-tests file. This a simple file that sets the Configuration for MacOS. In order to make the tests run in VSCode, you have to use the CMake extension tool. You first configure default, then set a build with the project name, finally, you launch. 
 
-An Error I wish to fix: I want to figure out how to use googletests as a folder in my project so the when I run the project in C++ mode, 
+An Error I wish to fix: I want to figure out how to use googletests as a folder in my project so the when I run the project in C++ mode, there won't be an error.
