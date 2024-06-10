@@ -1,0 +1,21 @@
+# ninja log v6
+1	109	1718011449111467791	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	c962161b196d9879
+1	109	1718011449111467791	/Users/balllerz21/CLionProjects/Project4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	c962161b196d9879
+109	997	1718011450000355177	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	569b3e19eac9a7a1
+109	997	1718011450000355177	/Users/balllerz21/CLionProjects/Project4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	569b3e19eac9a7a1
+997	1068	1718011450071307014	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	3f531cc5f785c42d
+997	1068	1718011450071307014	/Users/balllerz21/CLionProjects/Project4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	3f531cc5f785c42d
+1068	1124	1718011450127336895	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	d37bad6f8a92e222
+1068	1124	1718011450127336895	/Users/balllerz21/CLionProjects/Project4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	d37bad6f8a92e222
+1124	1202	1718011450202987021	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	f0a029a539d55634
+1124	1202	1718011450202987021	/Users/balllerz21/CLionProjects/Project4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	f0a029a539d55634
+1202	1285	1718011450287961492	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	50ef2a3e072f369
+1202	1285	1718011450287961492	/Users/balllerz21/CLionProjects/Project4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	50ef2a3e072f369
+1285	1345	1718011450348107328	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	1421fc2631752bdc
+1285	1345	1718011450348107328	/Users/balllerz21/CLionProjects/Project4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	1421fc2631752bdc
+1345	1397	1718011450399730263	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	98ae679c22e377e8
+1345	1397	1718011450399730263	/Users/balllerz21/CLionProjects/Project4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	98ae679c22e377e8
+1397	1484	1718011450487267516	CMakeFiles/googletest-populate-complete	b06564acc6569f43
+1397	1484	1718011450487267516	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	b06564acc6569f43
+1397	1484	1718011450487267516	/Users/balllerz21/CLionProjects/Project4/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	b06564acc6569f43
+1397	1484	1718011450487267516	/Users/balllerz21/CLionProjects/Project4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	b06564acc6569f43

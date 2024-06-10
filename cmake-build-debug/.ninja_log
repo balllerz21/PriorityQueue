@@ -1,0 +1,12 @@
+# ninja log v5
+2	1920	1718003710315181154	CMakeFiles/Project4.dir/tests.cpp.o	be615331c442ee54
+2	797	1718007771381185441	build.ninja	fd57d8c2e6d430cc
+4	9746	1666224212213655209	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	9e46fa4b9312c69b
+6	4017	1666224206507458304	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	bada6d7f3167a8ab
+255	295	1666224360601649000	lib/libgtest_main.a	1a22b72292c1559
+1921	2135	1718003710527545844	Project4	8ec954df79ce635d
+12	2544	1666224463163061803	CMakeFiles/Project4.dir/lol.cpp.o	75132dd6bb2bbfbd
+10	254	1666224360560719000	lib/libgtest.a	21fa1f62a564646f
+16	1484	1718002588341053671	CMakeFiles/Project4.dir/priorityqueue.cpp.o	92b369d28048b0e9
+13	2230	1718007784889417197	CMakeFiles/Project4.dir/tests.cpp.o	be615331c442ee54
+2230	2500	1718007785162599745	Project4	8ec954df79ce635d
