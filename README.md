@@ -11,6 +11,7 @@ inserted from the oldest to the most recent by a linked list.
 This priority queue has constructors, destructors, an enqueue, a dequeue, size, and peek functions as well as operator overloads. It uses private methods that uses recursive methods for enqueue, dequeue, operator overloaders, and next functions. 
 
 The Node Structure is as follows: 
+
 Each node (NODE) contains:
 
 priority: The priority of the element.
