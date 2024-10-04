@@ -14,10 +14,15 @@ The Node Structure is as follows:
 Each node (NODE) contains:
 
 priority: The priority of the element.
+
 value: The value of the element.
+
 dup: A boolean indicating if there are duplicates.
+
 parent: Pointer to the parent node.
+
 link: Pointer to the next node with the same priority. (the special thing about this queue)
+
 left and right: Pointers to left and right child nodes.
 
 # Tests
