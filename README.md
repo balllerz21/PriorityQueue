@@ -8,7 +8,17 @@ deleted, instead it's linked into the same branch in the order that it was
 inserted from the oldest to the most recent by a linked list. 
 
 # Implementation
-This priority queue has constructors, destructors, an enqueue, a dequeue, size, and peek functions as well as operator overloads. It uses private methods that uses recursive methods for enqueue, dequeue.
+This priority queue has constructors, destructors, an enqueue, a dequeue, size, and peek functions as well as operator overloads. It uses private methods that uses recursive methods for enqueue, dequeue, operator overloaders, and next functions. 
+
+The Node Structure is as follows: 
+Each node (NODE) contains:
+
+priority: The priority of the element.
+value: The value of the element.
+dup: A boolean indicating if there are duplicates.
+parent: Pointer to the parent node.
+link: Pointer to the next node with the same priority. (the special thing about this queue)
+left and right: Pointers to left and right child nodes.
 
 # Tests
 This project also comes with Google tests that test the funcionality of the priority queue. It was my first time using any kind of testing
