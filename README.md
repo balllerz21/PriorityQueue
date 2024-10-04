@@ -26,6 +26,8 @@ left and right: Pointers to left and right child nodes.
 
 
 This priority queue has constructors, destructors, an enqueue, a dequeue, size, and peek functions as well as operator overloads. It uses private methods that uses recursive methods for enqueue, dequeue, operator overloaders, and next functions. 
+## Usage
+In order to use this priority queue, you must clone this repo, since there is no user interface. This priority queue can be used for user interfaces such as hospitals or even customer service phone call lines. Feel free to use tbis implementation however you see fit. 
 
 # Tests
 This project also comes with Google tests that test the funcionality of the priority queue. It was my first time using any kind of testing
